@@ -1,0 +1,134 @@
+# 🚀 GitHub Profile README Generator (Universal Template Prompt)
+
+## 📌 Copy & Paste this into ChatGPT / Gemini
+
+```id="universal123"
+Create a premium, modern, and visually attractive GitHub Profile README using the following template.
+
+Replace all placeholders like [Your Name], [Your Skills], etc. with the user's details.
+
+Use Markdown and keep the design clean, professional, and visually appealing with badges, animations, and stats.
+
+TEMPLATE:
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F700FF,100:00F7FF&height=200&section=header&text=[Your Name]&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<div align="center">
+
+# 👋 Hey, I'm [Your Name]
+
+🚀 **[Your Role / Title]**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F700FF&lines=[Line1];[Line2];[Line3];[Line4]&speed=40&pause=1000)
+
+![Profile Views](https://komarev.com/ghpvc/?username=[Your GitHub Username]&color=blue)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+* 🎓 [Your Education]
+* 💻 Passionate about [Your Interests]
+* 🔥 Skilled in [Your Skills Highlight]
+* ⚡ [What makes you unique]
+* 🎯 Goal: [Your Career Goal]
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=[tech1],[tech2],[tech3],[tech4],[tech5]" />
+</p>
+
+---
+
+## 🏅 Skills & Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/[Skill1]-[Level]-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/[Skill2]-[Level]-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/[Skill3]-[Level]-yellow?style=for-the-badge" />
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=[Your GitHub Username]&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **[Project Name 1]**  
+👉 [Short description]  
+
+🔹 **[Project Name 2]**  
+👉 [Short description]  
+
+🔹 **[Project Name 3]**  
+👉 [Short description]  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="[LinkedIn Link]">
+  <img src="https://img.shields.io/badge/LinkedIn-[Your Name]-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:[Your Email]">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="[Instagram Link]">
+  <img src="https://img.shields.io/badge/Instagram-[Your Username]-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/[Your GitHub Username]/[Your GitHub Username]/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⚡ Fun Fact
+
+[Your fun fact]
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F700FF,100:00F7FF&height=120&section=footer"/>
+
+Instructions:
+- Replace all placeholders with user details
+- Keep formatting clean
+- Do NOT add explanations
+- Output only final README markdown
+```
+
+---
+
+## 🎯 What this does
+
+* Any user can copy this
+* Replace placeholders OR let AI ask them
+* Get a **premium GitHub profile like yours**
+
+---
+
+## 🔥 Pro Tip
+
+Add this line at top of your repo:
+
+⭐ “Generate your developer profile in seconds using this prompt”
