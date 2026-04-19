@@ -1,0 +1,56 @@
+# 🎬 Universal Cinematic / BTS Prompt
+
+A reusable prompt designed for generating realistic film scenes, behind-the-scenes shots, or candid photography with a cinematic, unpolished feel.
+
+---
+
+## 📌 Prompt
+
+```
+Raw, unfiltered on-set or candid snapshot capturing a real moment in [scene or setting]. Subjects appear naturally positioned — including director, crew, or individuals interacting organically with the environment. Visible production elements such as cameras, lighting rigs, boom mics, props, and set design are intentionally included to enhance authenticity.
+
+Wardrobe, makeup, and styling accurately reflect the context and character, maintaining visual consistency. The composition feels observational rather than staged, with imperfect framing, slight asymmetry, and natural blocking.
+
+Lighting is practical and realistic — mixed sources, slight harshness or falloff, subtle shadows, and occasional over/underexposure. Image quality embraces realism: mild motion blur, film grain, ISO noise, and natural color shifts from mixed lighting conditions.
+
+Textures such as skin, fabric, and environment details remain unretouched — including sweat, wrinkles, or imperfections. Background activity may include crew or environmental motion, softly blurred to create depth.
+
+Overall aesthetic: cinematic yet unpolished, immersive, documentary-style realism with an authentic, behind-the-scenes or in-the-moment feel.
+```
+
+---
+
+## 🛠️ How to Use
+
+1. Copy the prompt above.
+2. Replace **[scene or setting]** with your desired scenario.
+
+### Examples:
+
+* `a street chase scene at night`
+* `a romantic conversation in a café`
+* `a war zone battlefield`
+* `a casual portrait in natural light`
+
+3. Paste into your AI tool (Midjourney, DALL·E, Stable Diffusion, etc.).
+4. Generate your image.
+
+---
+
+## 💡 Tips
+
+* Add camera styles: `35mm lens`, `handheld`, `cinema verité`
+* Add mood: `tense`, `warm`, `gritty`, `nostalgic`
+* Add time: `golden hour`, `midnight`, `overcast daylight`
+
+---
+
+## 🎯 Use Cases
+
+* Film scene generation
+* Behind-the-scenes visuals
+* Documentary-style images
+* Realistic portraits
+* Cinematic storytelling
+
+---
